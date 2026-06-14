@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
 http://baphoflix.duckdns.org:14688/channel/4ce371a6/index.m3u8?q=26b6ef14608733ae6d2de29523604bb2
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
-http://baphoflix.duckdns.org:14688/channel/4ce371a6/index.m3u8?q=26b6ef14608733ae6d2de29523604bb2
+
